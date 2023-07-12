@@ -1,4 +1,4 @@
-a=3
+a=30
 b=7
-c=a+b*4
+c=a*b
 print(c)
